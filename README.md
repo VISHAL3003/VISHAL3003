@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Where's My Buddy is a project that helps developers find <br>collaborators for coding projects. It features user profiles, <br>skill matching, and a messaging system to facilitate teamwork. <br>Join us to enhance your coding experience and connect<br> with fellow developers!<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning Web Development
+🔭 Where's My Buddy is a project that helps developers find collaborators for coding projects. It features user profiles, <br>skill matching, and a messaging system to facilitate teamwork. <br>Join us to enhance your coding experience and connect<br> with fellow developers!<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning Web Development
 
 
 ## 🌐 Socials:
